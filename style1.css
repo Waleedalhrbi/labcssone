@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(200, 143, 73);
+}
+nav{
+    background-color: rgb(206, 184, 151);
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+
+p{
+    border: 2px solid bisque;
+    background-color: bisque;
+    width: 95vw;
+    height: 5vw;
+    text-align: center;
+}
+a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+button{
+    color: rgb(67, 115, 157);
+    margin: auto;
+}
